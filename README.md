@@ -5,7 +5,7 @@ Sensor placement:
 <img src=https://github.com/errohankumar/human-activity-classifier/blob/main/images/SensorPlacement.png width="400">
 
 Activity labels:
-<img src=https://github.com/errohankumar/human-activity-classifier/blob/main/images/activities_count.png width="400">
+<img src=https://github.com/errohankumar/human-activity-classifier/blob/main/images/activities_count.png width="600">
 
 After classification confusion matrix:
 <img src=https://github.com/errohankumar/human-activity-classifier/blob/main/images/confusion_matrix.png width="600">
